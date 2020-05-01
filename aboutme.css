@@ -1,0 +1,33 @@
+body {
+  background: url(assets/andrea.jpg) no-repeat center left fixed;
+  background-size: 600px 800px;
+  font-style: italic;
+  font-family: cursive;
+  font-size: 12px;
+  background-color: #E6E6FA;
+}
+.flag {
+  width: 3vw;
+  height: 1.5vw;
+  padding: 0.5vw;
+  float: right;
+}
+.profile-card {
+  width: 500px;
+  height: 500px;
+  float: right;
+}
+ul {
+  list-style-type: none;
+  list-style-image: initial;
+}
+li {
+  display: inline;
+}
+.social-icon {
+  width: 1vw;
+  height: auto;
+  padding: 1vw;
+}
+
+
