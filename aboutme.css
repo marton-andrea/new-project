@@ -22,11 +22,11 @@ time, mark, audio, video {
 }
 body {
   background: url(assets/andrea.jpg) no-repeat center left fixed;
-  background-size: 600px 800px;
+  background-size: 450px 650px;
   font-style: italic;
-  font-family: cursive;
+  font-family: 'DM Mono', monospace; 'Times New Roman', serif;
   font-size: 12px;
-  background-color: #E6E6FA;
+  background-color: #FFFFFF;
 }
 .flag {
   width: 3vw;
@@ -35,8 +35,8 @@ body {
   float: right;
 }
 .profile-card {
-  width: 500px;
-  height: 500px;
+  width: 600px;
+  height: 600px;
   float: right;
 }
 ul {
@@ -66,7 +66,7 @@ img:hover {
 }
 
 #box-01 {
-  background-color: #DDA0DD;
+  
   width: 200px;
   height: auto;
   position: relative;
@@ -75,40 +75,42 @@ img:hover {
 }
 
 #box-02 {
-  background-color: #DDA0DD;
+  
   width: 200px;
   height: auto;
   position: relative;
-  top: 10px;
+  top: 25px;
   left: 40px;
+  bottom: 10px;
 }
 #box-03 {
-  background-color: #DDA0DD;
+  
   width: 200px;
   height: auto;
   position: relative;
-  bottom: -30px;
-  right: 150px;
+  bottom: 10px;
+  right: 40px;
+  bottom: -20px;
 }
 
 #box-04 {
-  background-color: #DDA0DD;
+  
   width: 200px;
   height: auto;
   position: relative;
-  top: -70px;
-  left: -30px;
+  top: -90px;
+  left: 40px;
 }
 #box-05 {
-  background-color: #DDA0DD;
+  
   width: 200px;
   height: auto;
   position: relative;
-  top: -30px;
-  left: 150px;
+  top: -80px;
+  left: 245px;
 }
 h1 {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: bold;
 }
 h2 {
